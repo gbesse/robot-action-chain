@@ -1,0 +1,1 @@
+{"episode":"demo-1","step":0,"requested_at_ms":1000,"sent_at_ms":1008,"observed_at_ms":1020,"requested":{"base.vx":2.0,"base.wz":0.0},"sent":{"base.vx":0.5,"base.wz":0.0},"observed":{"base.vx":0.48,"base.wz":0.01},"units":{"base.vx":"m/s","base.wz":"rad/s"}}

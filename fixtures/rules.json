@@ -1,0 +1,7 @@
+{
+  "fields": {
+    "base.vx": {"unit": "m/s", "max_tracking_error": 0.1},
+    "base.wz": {"unit": "rad/s", "max_tracking_error": 0.1}
+  },
+  "max_latency_ms": 100
+}
